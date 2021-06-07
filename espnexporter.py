@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-!pip install tabula-py
+#!pip install tabula-py
 import tabula
 from tabula import read_pdf
 idx = pd.IndexSlice
