@@ -35,7 +35,11 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git commit -m "Commiting data" 
-          
+       
+      - name: push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          branch: main 
           
       #- name: Git push
        # run: |
