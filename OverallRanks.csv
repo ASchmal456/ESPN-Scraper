@@ -14,14 +14,14 @@ ESPNOverall,ESPNPlayer,ESPNPosAndRank,ESPNPosRank
 13,Aaron Jones,RB9,9
 14,Nick Chubb,RB10,10
 15,Cam Akers,RB11,11
-16,Joe Mixon,RB12,12
+16,Antonio Gibson,RB12,12
 17,DeAndre Hopkins,WR4,4
-18,Najee Harris,RB13,13
-19,D'Andre Swift,RB14,14
+18,Joe Mixon,RB13,13
+19,Najee Harris,RB14,14
 20,Calvin Ridley,WR5,5
 21,DK Metcalf,WR6,6
-22,Miles Sanders,RB15,15
-23,Antonio Gibson,RB16,16
+22,D'Andre Swift,RB15,15
+23,Miles Sanders,RB16,16
 24,A.J. Brown,WR7,7
 25,Justin Jefferson,WR8,8
 26,Michael Thomas,WR9,9
@@ -51,41 +51,41 @@ ESPNOverall,ESPNPlayer,ESPNPosAndRank,ESPNPosRank
 50,Odell Beckham Jr.,WR25,25
 51,Ja'Marr Chase,WR26,26
 52,Courtland Sutton,WR27,27
-53,JuJu Smith-Schuster,WR28,28
+53,Tee Higgins,WR28,28
 54,Mark Andrews,TE4,4
 55,Patrick Mahomes,QB1,1
 56,Josh Allen,QB2,2
-57,DJ Chark Jr.,WR29,29
-58,Brandin Cooks,WR30,30
-59,Robby Anderson,WR31,31
-60,Chase Claypool,WR32,32
+57,JuJu Smith-Schuster,WR29,29
+58,Laviska Shenault Jr.,WR30,30
+59,Brandin Cooks,WR31,31
+60,Robby Anderson,WR32,32
 61,Kyler Murray,QB3,3
 62,Dak Prescott,QB4,4
 63,Chase Edmonds,RB23,23
 64,Travis Etienne,RB24,24
 65,Kareem Hunt,RB25,25
 66,Brandon Aiyuk,WR33,33
-67,Will Fuller V,WR34,34
-68,Tee Higgins,WR35,35
-69,Tyler Boyd,WR36,36
-70,Jerry Jeudy,WR37,37
-71,Deebo Samuel,WR38,38
-72,Curtis Samuel,WR39,39
-73,Mike Davis,RB26,26
-74,Leonard Fournette,RB27,27
-75,Raheem Mostert,RB28,28
-76,Lamar Jackson,QB5,5
-77,Aaron Rodgers,QB6,6
-78,Justin Herbert,QB7,7
-79,T.J. Hockenson,TE5,5
-80,Kyle Pitts,TE6,6
+67,Chase Claypool,WR34,34
+68,Will Fuller V,WR35,35
+69,DJ Chark Jr.,WR36,36
+70,Tyler Boyd,WR37,37
+71,Jerry Jeudy,WR38,38
+72,T.J. Hockenson,TE5,5
+73,Kyle Pitts,TE6,6
+74,Deebo Samuel,WR39,39
+75,Mike Davis,RB26,26
+76,Leonard Fournette,RB27,27
+77,Raheem Mostert,RB28,28
+78,Lamar Jackson,QB5,5
+79,Aaron Rodgers,QB6,6
+80,Justin Herbert,QB7,7
 81,Logan Thomas,TE7,7
 82,Dallas Goedert,TE8,8
-83,DeVonta Smith,WR40,40
-84,Laviska Shenault Jr.,WR41,41
-85,Marquise Brown,WR42,42
-86,Jarvis Landry,WR43,43
-87,Michael Gallup,WR44,44
+83,Curtis Samuel,WR40,40
+84,DeVonta Smith,WR41,41
+85,Michael Gallup,WR42,42
+86,Marquise Brown,WR43,43
+87,Jarvis Landry,WR44,44
 88,Corey Davis,WR45,45
 89,Russell Wilson,QB8,8
 90,Tom Brady,QB9,9
@@ -115,8 +115,8 @@ ESPNOverall,ESPNPlayer,ESPNPosAndRank,ESPNPosRank
 114,Devin Singletary,RB39,39
 115,Joe Burrow,QB12,12
 116,T.Y. Hilton,WR53,53
-117,Jamison Crowder,WR54,54
-118,DeVante Parker,WR55,55
+117,DeVante Parker,WR54,54
+118,Mecole Hardman,WR55,55
 119,Jonnu Smith,TE13,13
 120,Eric Ebron,TE14,14
 121,Evan Engram,TE15,15
@@ -127,13 +127,13 @@ ESPNOverall,ESPNPlayer,ESPNPosAndRank,ESPNPosRank
 126,Tarik Cohen,RB43,43
 127,James White,RB44,44
 128,Matthew Stafford,QB13,13
-129,Matt Ryan,QB14,14
-130,Mecole Hardman,WR56,56
-131,Michael Pittman Jr.,WR57,57
-132,Parris Campbell,WR58,58
-133,Darnell Mooney,WR59,59
-134,Russell Gage,WR60,60
-135,Nelson Agholor,WR61,61
+129,Trevor Lawrence,QB14,14
+130,Michael Pittman Jr.,WR56,56
+131,Parris Campbell,WR57,57
+132,Darnell Mooney,WR58,58
+133,Nelson Agholor,WR59,59
+134,Elijah Moore,WR60,60
+135,Russell Gage,WR61,61
 136,Michael Carter,RB45,45
 137,Trey Sermon,RB46,46
 138,Latavius Murray,RB47,47
@@ -143,20 +143,20 @@ ESPNOverall,ESPNPlayer,ESPNPosAndRank,ESPNPosRank
 142,Darrell Henderson Jr.,RB51,51
 143,Austin Hooper,TE17,17
 144,Hunter Henry,TE18,18
-145,Trevor Lawrence,QB15,15
-146,Tua Tagovailoa,QB16,16
+145,Tua Tagovailoa,QB15,15
+146,Matt Ryan,QB16,16
 147,Ben Roethlisberger,QB17,17
 148,Tevin Coleman,RB52,52
 149,Phillip Lindsay,RB53,53
 150,Darrel Williams,RB54,54
 151,Sony Michel,RB55,55
-152,Rashod Bateman,WR62,62
+152,Jamison Crowder,WR62,62
 153,Breshad Perriman,WR63,63
 154,Tyrell Williams,WR64,64
 155,Allen Lazard,WR65,65
-156,John Brown,WR66,66
-157,A.J. Green,WR67,67
-158,Gabriel Davis,WR68,68
+156,Rashod Bateman,WR66,66
+157,John Brown,WR67,67
+158,A.J. Green,WR68,68
 159,Darrynton Evans,RB56,56
 160,Rashaad Penny,RB57,57
 161,Salvon Ahmed,RB58,58
@@ -167,12 +167,12 @@ ESPNOverall,ESPNPlayer,ESPNPosAndRank,ESPNPosRank
 166,Ryan Fitzpatrick,QB19,19
 167,Kirk Cousins,QB20,20
 168,Adam Trautman,TE21,21
-193,Kadarius Toney,WR69,69
-194,Denzel Mims,WR70,70
-195,Terrace Marshall Jr,WR71,71
-196,Amon-Ra St,WR72,72
-197,Rondale Moore,WR73,73
-198,Randall Cobb,WR74,74
+193,Gabriel Davis,WR69,69
+194,Kadarius Toney,WR70,70
+195,Denzel Mims,WR71,71
+196,Terrace Marshall Jr,WR72,72
+197,Amon-Ra St,WR73,73
+198,D'Wayne Eskridge,WR74,74
 199,Giovani Bernard,RB60,60
 200,Justin Jackson,RB61,61
 201,Malcolm Brown,RB62,62
@@ -187,24 +187,24 @@ ESPNOverall,ESPNPlayer,ESPNPosAndRank,ESPNPosRank
 210,Mark Ingram II,RB71,71
 211,Zach Ertz,TE22,22
 212,Justin Fields,QB21,21
-213,Sterling Shepard,WR75,75
-214,Jakobi Meyers,WR76,76
-215,Emmanuel Sanders,WR77,77
-216,Elijah Moore,WR78,78
-217,Christian Kirk,WR79,79
-218,Tre'Quan Smith,WR80,80
+213,Rondale Moore,WR75,75
+214,Randall Cobb,WR76,76
+215,Sterling Shepard,WR77,77
+216,Jakobi Meyers,WR78,78
+217,Emmanuel Sanders,WR79,79
+218,Christian Kirk,WR80,80
 219,Baker Mayfield,QB22,22
 220,Deshaun Watson,QB23,23
-225,Marquez Valdes-Scantling,WR81,81
-226,Nico Collins,WR82,82
-227,Van Jefferson,WR83,83
-228,Darius Slayton,WR84,84
-229,Demarcus Robinson,WR85,85
-230,KJ Hamler,WR86,86
-231,Tutu Atwell,WR87,87
-232,Josh Palmer,WR88,88
-233,Tim Patrick,WR89,89
-234,Chris Conley,WR90,90
+225,Tre'Quan Smith,WR81,81
+226,Marquez Valdes-Scantling,WR82,82
+227,Nico Collins,WR83,83
+228,Van Jefferson,WR84,84
+229,Darius Slayton,WR85,85
+230,Demarcus Robinson,WR86,86
+231,KJ Hamler,WR87,87
+232,Tutu Atwell,WR88,88
+233,Josh Palmer,WR89,89
+234,Tim Patrick,WR90,90
 235,Boston Scott,RB72,72
 236,Rhamondre Stevenson,RB73,73
 237,Carlos Hyde,RB74,74
