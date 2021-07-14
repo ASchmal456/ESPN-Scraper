@@ -1,6 +1,6 @@
 ESPNOverall,ESPNPlayer,ESPNPosAndRank,ESPNPosRank
-9,Davante Adams,WR1,1
-10,Tyreek Hill,WR2,2
+9,Tyreek Hill,WR1,1
+10,Davante Adams,WR2,2
 12,Stefon Diggs,WR3,3
 17,DeAndre Hopkins,WR4,4
 20,Calvin Ridley,WR5,5
@@ -13,79 +13,79 @@ ESPNOverall,ESPNPlayer,ESPNPosAndRank,ESPNPosRank
 32,Allen Robinson II,WR12,12
 33,Amari Cooper,WR13,13
 34,Mike Evans,WR14,14
-35,Adam Thielen,WR15,15
-40,Robert Woods,WR16,16
-41,Julio Jones,WR17,17
-42,CeeDee Lamb,WR18,18
-44,Chris Godwin,WR19,19
-45,Diontae Johnson,WR20,20
-46,DJ Moore,WR21,21
-47,Kenny Golladay,WR22,22
-48,Tyler Lockett,WR23,23
-49,Cooper Kupp,WR24,24
-50,Odell Beckham Jr.,WR25,25
+35,Robert Woods,WR15,15
+40,CeeDee Lamb,WR16,16
+41,Adam Thielen,WR17,17
+42,Diontae Johnson,WR18,18
+44,Julio Jones,WR19,19
+45,DJ Moore,WR20,20
+46,Chris Godwin,WR21,21
+47,Tyler Lockett,WR22,22
+48,Cooper Kupp,WR23,23
+49,Kenny Golladay,WR24,24
+50,Brandon Aiyuk,WR25,25
 51,Ja'Marr Chase,WR26,26
 52,Courtland Sutton,WR27,27
-53,Tee Higgins,WR28,28
-57,JuJu Smith-Schuster,WR29,29
-58,Laviska Shenault Jr.,WR30,30
-59,Brandin Cooks,WR31,31
-60,Robby Anderson,WR32,32
-66,Brandon Aiyuk,WR33,33
-67,Chase Claypool,WR34,34
-68,Will Fuller V,WR35,35
+53,JuJu Smith-Schuster,WR28,28
+57,Tee Higgins,WR29,29
+58,Chase Claypool,WR30,30
+59,Odell Beckham Jr.,WR31,31
+60,Laviska Shenault Jr.,WR32,32
+66,Robby Anderson,WR33,33
+67,Will Fuller V,WR34,34
+68,Brandin Cooks,WR35,35
 69,DJ Chark Jr.,WR36,36
-70,Tyler Boyd,WR37,37
-71,Jerry Jeudy,WR38,38
-74,Deebo Samuel,WR39,39
-83,Curtis Samuel,WR40,40
-84,DeVonta Smith,WR41,41
-85,Michael Gallup,WR42,42
+70,Jerry Jeudy,WR37,37
+71,Tyler Boyd,WR38,38
+74,Curtis Samuel,WR39,39
+83,Michael Gallup,WR40,40
+84,Deebo Samuel,WR41,41
+85,DeVonta Smith,WR42,42
 86,Marquise Brown,WR43,43
 87,Jarvis Landry,WR44,44
-88,Corey Davis,WR45,45
-93,Antonio Brown,WR46,46
-94,Jaylen Waddle,WR47,47
-95,Henry Ruggs III,WR48,48
-96,Marvin Jones Jr.,WR49,49
+88,Antonio Brown,WR45,45
+93,Jaylen Waddle,WR46,46
+94,Henry Ruggs III,WR47,47
+95,Corey Davis,WR48,48
+96,Jalen Reagor,WR49,49
 97,Cole Beasley,WR50,50
-98,Jalen Reagor,WR51,51
+98,Marvin Jones Jr.,WR51,51
 99,Mike Williams,WR52,52
 116,T.Y. Hilton,WR53,53
-117,DeVante Parker,WR54,54
-118,Mecole Hardman,WR55,55
-130,Michael Pittman Jr.,WR56,56
-131,Parris Campbell,WR57,57
+117,Mecole Hardman,WR54,54
+118,Michael Pittman Jr.,WR55,55
+130,Parris Campbell,WR56,56
+131,DeVante Parker,WR57,57
 132,Darnell Mooney,WR58,58
-133,Nelson Agholor,WR59,59
-134,Elijah Moore,WR60,60
-135,Russell Gage,WR61,61
-152,Jamison Crowder,WR62,62
-153,Breshad Perriman,WR63,63
-154,Tyrell Williams,WR64,64
-155,Allen Lazard,WR65,65
-156,Rashod Bateman,WR66,66
-157,John Brown,WR67,67
-158,A.J. Green,WR68,68
-193,Gabriel Davis,WR69,69
-194,Kadarius Toney,WR70,70
-195,Denzel Mims,WR71,71
-196,Terrace Marshall Jr,WR72,72
-197,Amon-Ra St,WR73,73
-198,D'Wayne Eskridge,WR74,74
-213,Rondale Moore,WR75,75
-214,Randall Cobb,WR76,76
-215,Sterling Shepard,WR77,77
-216,Jakobi Meyers,WR78,78
-217,Emmanuel Sanders,WR79,79
-218,Christian Kirk,WR80,80
-225,Tre'Quan Smith,WR81,81
-226,Marquez Valdes-Scantling,WR82,82
-227,Nico Collins,WR83,83
-228,Van Jefferson,WR84,84
-229,Darius Slayton,WR85,85
-230,Demarcus Robinson,WR86,86
-231,KJ Hamler,WR87,87
-232,Tutu Atwell,WR88,88
-233,Josh Palmer,WR89,89
-234,Tim Patrick,WR90,90
+133,Jakobi Meyers,WR59,59
+134,Nelson Agholor,WR60,60
+135,Elijah Moore,WR61,61
+152,Russell Gage,WR62,62
+153,Rashod Bateman,WR63,63
+154,Jamison Crowder,WR64,64
+155,Breshad Perriman,WR65,65
+156,Tyrell Williams,WR66,66
+157,Allen Lazard,WR67,67
+158,Sterling Shepard,WR68,68
+193,A,WR69,69
+194,John Brown,WR70,70
+195,Rondale Moore,WR71,71
+196,Gabriel Davis,WR72,72
+197,Kadarius Toney,WR73,73
+198,Terrace Marshall Jr,WR74,74
+213,Emmanuel Sanders,WR75,75
+214,Amon-Ra St,WR76,76
+215,D'Wayne Eskridge,WR77,77
+216,Nico Collins,WR78,78
+217,Randall Cobb,WR79,79
+218,Denzel Mims,WR80,80
+225,KJ Hamler,WR81,81
+226,Christian Kirk,WR82,82
+227,Marquez Valdes-Scantling,WR83,83
+228,Tre'Quan Smith,WR84,84
+229,Demarcus Robinson,WR85,85
+230,Byron Pringle,WR86,86
+231,Darius Slayton,WR87,87
+232,Van Jefferson,WR88,88
+233,Tutu Atwell,WR89,89
+234,Josh Palmer,WR90,90
