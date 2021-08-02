@@ -1,6 +1,6 @@
 ESPNOverall,ESPNPlayer,ESPNPosAndRank,ESPNPosRank
-9,Tyreek Hill,WR1,1
-10,Davante Adams,WR2,2
+9,Davante Adams,WR1,1
+10,Tyreek Hill,WR2,2
 12,Stefon Diggs,WR3,3
 17,DeAndre Hopkins,WR4,4
 20,Calvin Ridley,WR5,5
@@ -63,14 +63,14 @@ ESPNOverall,ESPNPlayer,ESPNPosAndRank,ESPNPosRank
 152,Russell Gage,WR62,62
 153,Tre'Quan Smith,WR63,63
 154,Rashod Bateman,WR64,64
-155,Jamison Crowder,WR65,65
-156,Breshad Perriman,WR66,66
-157,Tyrell Williams,WR67,67
-158,Allen Lazard,WR68,68
-193,Sterling Shepard,WR69,69
-194,A,WR70,70
-195,John Brown,WR71,71
-196,Rondale Moore,WR72,72
+155,Randall Cobb,WR65,65
+156,Rondale Moore,WR66,66
+157,Jamison Crowder,WR67,67
+158,Breshad Perriman,WR68,68
+193,Tyrell Williams,WR69,69
+194,Sterling Shepard,WR70,70
+195,A,WR71,71
+196,John Brown,WR72,72
 197,Gabriel Davis,WR73,73
 198,Kadarius Toney,WR74,74
 213,Terrace Marshall Jr,WR75,75
@@ -78,10 +78,10 @@ ESPNOverall,ESPNPlayer,ESPNPosAndRank,ESPNPosRank
 215,Amon-Ra St,WR77,77
 216,D'Wayne Eskridge,WR78,78
 217,Nico Collins,WR79,79
-218,Randall Cobb,WR80,80
-225,Denzel Mims,WR81,81
-226,KJ Hamler,WR82,82
-227,Christian Kirk,WR83,83
+218,Denzel Mims,WR80,80
+225,KJ Hamler,WR81,81
+226,Christian Kirk,WR82,82
+227,Allen Lazard,WR83,83
 228,Marquez Valdes-Scantling,WR84,84
 229,Demarcus Robinson,WR85,85
 230,Byron Pringle,WR86,86

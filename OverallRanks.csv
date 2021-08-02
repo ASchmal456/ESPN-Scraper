@@ -7,8 +7,8 @@ ESPNOverall,ESPNPlayer,ESPNPosAndRank,ESPNPosRank
 6,Derrick Henry,RB5,5
 7,Ezekiel Elliott,RB6,6
 8,Jonathan Taylor,RB7,7
-9,Tyreek Hill,WR1,1
-10,Davante Adams,WR2,2
+9,Davante Adams,WR1,1
+10,Tyreek Hill,WR2,2
 11,Austin Ekeler,RB8,8
 12,Stefon Diggs,WR3,3
 13,Aaron Jones,RB9,9
@@ -26,9 +26,9 @@ ESPNOverall,ESPNPlayer,ESPNPosAndRank,ESPNPosRank
 25,Justin Jefferson,WR8,8
 26,Terry McLaurin,WR9,9
 27,Keenan Allen,WR10,10
-28,J.K. Dobbins,RB17,17
-29,Chris Carson,RB18,18
-30,David Montgomery,RB19,19
+28,David Montgomery,RB17,17
+29,J.K. Dobbins,RB18,18
+30,Chris Carson,RB19,19
 31,Allen Robinson II,WR11,11
 32,Amari Cooper,WR12,12
 33,Mike Evans,WR13,13
@@ -36,8 +36,8 @@ ESPNOverall,ESPNPlayer,ESPNPosAndRank,ESPNPosRank
 35,CeeDee Lamb,WR15,15
 36,Darren Waller,TE2,2
 37,George Kittle,TE3,3
-38,Darrell Henderson Jr.,RB20,20
-39,Josh Jacobs,RB21,21
+38,Josh Jacobs,RB20,20
+39,Darrell Henderson Jr.,RB21,21
 40,Adam Thielen,WR16,16
 41,Diontae Johnson,WR17,17
 42,Julio Jones,WR18,18
@@ -77,8 +77,8 @@ ESPNOverall,ESPNPlayer,ESPNPosAndRank,ESPNPosRank
 76,Mike Davis,RB27,27
 77,James Robinson,RB28,28
 78,Lamar Jackson,QB5,5
-79,Russell Wilson,QB6,6
-80,Justin Herbert,QB7,7
+79,Aaron Rodgers,QB6,6
+80,Russell Wilson,QB7,7
 81,Logan Thomas,TE7,7
 82,Dallas Goedert,TE8,8
 83,Michael Gallup,WR40,40
@@ -87,7 +87,7 @@ ESPNOverall,ESPNPlayer,ESPNPosAndRank,ESPNPosRank
 86,Marquise Brown,WR43,43
 87,Jarvis Landry,WR44,44
 88,Antonio Brown,WR45,45
-89,Aaron Rodgers,QB8,8
+89,Justin Herbert,QB8,8
 90,Tom Brady,QB9,9
 91,Damien Harris,RB29,29
 92,Raheem Mostert,RB30,30
@@ -111,8 +111,8 @@ ESPNOverall,ESPNPlayer,ESPNPosAndRank,ESPNPosRank
 110,James Conner,RB35,35
 111,Melvin Gordon,RB36,36
 112,Ronald Jones II,RB37,37
-113,AJ Dillon,RB38,38
-114,Nyheim Hines,RB39,39
+113,Michael Carter,RB38,38
+114,AJ Dillon,RB39,39
 115,Jalen Hurts,QB12,12
 116,T.Y. Hilton,WR53,53
 117,Mecole Hardman,WR54,54
@@ -121,10 +121,10 @@ ESPNOverall,ESPNPlayer,ESPNPosAndRank,ESPNPosRank
 120,Hunter Henry,TE14,14
 121,Eric Ebron,TE15,15
 122,Evan Engram,TE16,16
-123,Jamaal Williams,RB40,40
-124,Devin Singletary,RB41,41
-125,Michael Carter,RB42,42
-126,Trey Sermon,RB43,43
+123,Nyheim Hines,RB40,40
+124,Trey Sermon,RB41,41
+125,Jamaal Williams,RB42,42
+126,Devin Singletary,RB43,43
 127,J.D. McKissic,RB44,44
 128,Matthew Stafford,QB13,13
 129,Trevor Lawrence,QB14,14
@@ -153,10 +153,10 @@ ESPNOverall,ESPNPlayer,ESPNPosAndRank,ESPNPosRank
 152,Russell Gage,WR62,62
 153,Tre'Quan Smith,WR63,63
 154,Rashod Bateman,WR64,64
-155,Jamison Crowder,WR65,65
-156,Breshad Perriman,WR66,66
-157,Tyrell Williams,WR67,67
-158,Allen Lazard,WR68,68
+155,Randall Cobb,WR65,65
+156,Rondale Moore,WR66,66
+157,Jamison Crowder,WR67,67
+158,Breshad Perriman,WR68,68
 159,Rashaad Penny,RB56,56
 160,Ty Johnson,RB57,57
 161,Devontae Booker,RB58,58
@@ -167,10 +167,10 @@ ESPNOverall,ESPNPlayer,ESPNPosAndRank,ESPNPosRank
 166,Baker Mayfield,QB19,19
 167,Kirk Cousins,QB20,20
 168,Cole Kmet,TE21,21
-193,Sterling Shepard,WR69,69
-194,A,WR70,70
-195,John Brown,WR71,71
-196,Rondale Moore,WR72,72
+193,Tyrell Williams,WR69,69
+194,Sterling Shepard,WR70,70
+195,A,WR71,71
+196,John Brown,WR72,72
 197,Gabriel Davis,WR73,73
 198,Kadarius Toney,WR74,74
 199,Wayne Gallman,RB60,60
@@ -192,12 +192,12 @@ ESPNOverall,ESPNPlayer,ESPNPosAndRank,ESPNPosRank
 215,Amon-Ra St,WR77,77
 216,D'Wayne Eskridge,WR78,78
 217,Nico Collins,WR79,79
-218,Randall Cobb,WR80,80
+218,Denzel Mims,WR80,80
 219,Justin Fields,QB22,22
 220,Deshaun Watson,QB23,23
-225,Denzel Mims,WR81,81
-226,KJ Hamler,WR82,82
-227,Christian Kirk,WR83,83
+225,KJ Hamler,WR81,81
+226,Christian Kirk,WR82,82
+227,Allen Lazard,WR83,83
 228,Marquez Valdes-Scantling,WR84,84
 229,Demarcus Robinson,WR85,85
 230,Byron Pringle,WR86,86
