@@ -31,14 +31,14 @@ jobs:
           git add -A
           git commit -m "Update Data" -a
           
-      - name: push changes
-        uses: ad-m/github-push-action@v0.6.0
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: main 
+     #- name: push changes
+      #  uses: ad-m/github-push-action@v0.6.0
+      #  with:
+      #    github_token: ${{ secrets.GITHUB_TOKEN }}
+      #    branch: main 
           
-      #- name: Git push
-       # run: |
-        #  git push "https://${GITHUB_ACTOR}:${TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:main
-        #env:
-         # TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Git push
+        run: |
+          git push "https://${GITHUB_ACTOR}:${TOKEN}@github.com/${GITHUB_REPOSITORY}.git" HEAD:main
+        env:
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
