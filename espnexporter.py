@@ -6,7 +6,7 @@ from tabula import read_pdf
 idx = pd.IndexSlice
     
 ###### ESPN PPR Top 300 Scraper
-df = read_pdf('https://g.espncdn.com/s/ffldraftkit/21/NFLDK2021_CS_PPR300.pdf', pages = 1,silent = True)
+df = read_pdf('https://g.espncdn.com/s/ffldraftkit/22/NFLDK2022_CS_PPR300.pdf', pages = 1,silent = True)
 df = np.array(df[0])
 ESPNDF = pd.DataFrame(df)
 ESPNDF = ESPNDF.dropna(axis = 'columns', how = 'all')
